@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "one",
+     "size": 390
+  },
+  {
+    "id": 2,
+    "name": "persons",
+    "parent": 1,
+     "size": 3090
+  },
+  {
+    "id": 3,
+    "name": "projects",
+    "parent": 1,
+     "size": 3930
+  },
+  {
+    "id": 4,
+    "name": "Persone1",
+    "parent": 2,
+    "size": 3938
+  },
+  {
+    "id": 5,
+    "name": "Persone2",
+    "parent": 2,
+    "size": 3812
+  },
+  {
+    "id": 6,
+    "name": "Persone3",
+    "parent": 2,
+    "size": 6714
+  },
+  {
+    "id": 7,
+    "name": "Persone4",
+    "parent": 2,
+    "size": 3938
+  },
+  {
+    "id": 8,
+    "name": "Persone5",
+    "parent": 2,
+    "size": 3812
+  },
+  {
+    "id": 9,
+    "name": "Persone6",
+    "parent": 2,
+    "size": 6714
+  },
+  {
+    "id": 10,
+    "name": "Project7",
+    "parent": 3,
+    "size": 743
+  },
+  {
+    "id": 11,
+    "name": "Projecteight",
+    "parent": 3
+  },
+  {
+    "id": 12,
+    "name": "Projectnine",
+    "parent": 3,
+    "size": 3534
+  },
+  {
+    "id": 13,
+    "name": "Projectten",
+    "parent": 3,
+    "size": 5731
+  },
+  {
+    "id": 14,
+    "name": "Projecteleven",
+    "parent": 13,
+    "size": 7840
+  },
+  {
+    "id": 15,
+    "name": "Projecttwelve",
+    "parent": 3,
+    "size": 5914
+  },
+  {
+    "id": 16,
+    "name": "Projecttherteen",
+    "parent": 3,
+    "size": 3416
+  },
+  {
+    "id": 17,
+    "name": "Projectfourteen",
+    "parent": 3
+  },
+  {
+    "id": 18,
+    "name": "Projectfifteen",
+    "parent": 3,
+    "size": null
+  },
+  {
+    "id": 19,
+    "name": "Projectsixteen",
+    "parent": 3
+  },
+  {
+    "id": 20,
+    "name": "Projectseventeen",
+    "parent": 3,
+    "size": 17010
+  },
+  {
+    "id": 21,
+    "name": "Projecteighteen",
+    "parent": 3,
+    "size": 5842
+  },
+  {
+    "id": 22,
+    "name": "Projectnineteen",
+    "parent": 3
+  },
+  {
+    "id": 23,
+    "name": "Projecttwenty",
+    "parent": 3,
+    "size": 1983
+  }]
