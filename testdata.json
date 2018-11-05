@@ -1,0 +1,10 @@
+[{"id":1,"name":"object"},
+{"id":2,"name":"gov","parent":1},
+{"id":3,"name":"noGov","parent":1},
+{"id":4,"name":"Опришко Антон","budget":4901563,"parent":2},
+{"id":5,"name":"Маржан Ірина","budget":4300586,"parent":2},
+{"id":6,"name":"Печуляк Юлія","budget":3357124,"parent":2},
+{"id":7,"name":"Чернецький Микола","budget":2979840,"parent":2},
+{"id":8,"name":"Басовский Володимир","budget":2402000,"parent":2},
+{"id":9,"name ":"Опришко Антон_2","parent":1,"budget":null,"district":""},
+{"id":10,"name ":"Громадський бюджет діти у гімназії ","parent":9,"budget":143000,"district":"Дарницький"}]
